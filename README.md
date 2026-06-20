@@ -1,6 +1,6 @@
 # Digma CITI 1804 Drivers
 Only for Windows 10. **Not work** on Windows 8\8.1.
-Mostly compatible with another Cherry Trail devices.
+Mostly compatible with other Cherry Trail devices.
 
 -----------
 
